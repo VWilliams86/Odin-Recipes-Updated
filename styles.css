@@ -1,0 +1,66 @@
+html {
+    background-color: bisque;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: maroon;
+    
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: center;
+    color: peru;
+}
+
+h2 {
+    font-size: 20pt;
+    color: chocolate;
+}
+
+h3 {
+    font-size: 24pt;
+    color: firebrick;
+    text-align: center;
+}
+
+div, 
+.recipes-list {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    
+
+}
+div {
+    color:darksalmon;
+    text-align: center;
+}
+.alert-text { 
+    font-size: 19pt;
+    color: brown;
+    font-weight: bold;
+}
+
+#title {
+    background-color: bisque;
+    text-align: right;
+    color: darkolivegreen;
+}
+
+.recipes-list {
+    color: forestgreen;
+    text-align: left;
+    
+
+}
+
+.recipe.ingredients {
+    font-weight: bolder;
+    text-align: left;
+}
+
+.recipe#instructions {
+    text-align: left;
+}
+
+ 
